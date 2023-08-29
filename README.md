@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Digital Strong Farmer :technologist: :ear_of_rice: :four_leaf_clover:
 
-:seedling: :potted_plant: :deciduous_tree: :leaves: :four_leaf_clover: :broccoli: :sunflower: :mushroom: :herb: :cactus: :palm_tree: :tulip: :cherry_blossom: :rose: :hibiscus: :bouquet:
+:seedling: :potted_plant: :deciduous_tree: :palm_tree: :leaves: :four_leaf_clover: :broccoli: :sunflower: :mushroom: :herb: :cactus: :palm_tree: :tulip: :cherry_blossom: :rose: :hibiscus: :bouquet: :melon: :watermelon: :lemon: :tomato: :strawberry: :orange:
 
