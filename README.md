@@ -1,6 +1,4 @@
-### Hi👋 I am Nguyen Anh Duc from VietNam
-
-Here are some ideas to get you started:
+### Hi👋 I am Nguyen Anh Duc from VietNam 
 
 - 🔭 I’m currently working on Agricultural Technology.
 - 🌱 I’m currently learning Application of Machine learning in high-tech Agriculture. 
@@ -9,5 +7,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me any question related to -->
 - 📫 How to reach me: [ducna1761@gmail.com](ducna1761@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Digital Strong Farmer
+- ⚡ Fun fact: Digital Strong Farmer :technologist: :ear_of_rice: :four_leaf_clover:
+
+:seedling: :potted_plant: :deciduous_tree: :leaves: :four_leaf_clover: :broccoli: :sunflower: :mushroom: :herb: :cactus: :palm_tree: :tulip: :cherry_blossom: :rose: :hibiscus: :bouquet:
 
