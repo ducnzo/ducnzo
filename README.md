@@ -1,3 +1,5 @@
+![imgs](./14258107_2004.i121.051..isometric%20smart%20farm%20illustration.jpg)
+
 ### Hi👋 I am Nguyen Anh Duc from VietNam :revolving_hearts:
 
 - 🔭 I’m currently working on Agricultural Technology.
